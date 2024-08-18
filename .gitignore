@@ -1,0 +1,38 @@
+# node_modules folder
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript compiled output
+dist/
+out/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm/
+
+# IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# macOS specific files
+.DS_Store
+
+# Miscellaneous
+Thumbs.db
